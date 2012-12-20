@@ -1,1 +1,8 @@
-This file was created by JetBrains PhpStorm (PhpStorm) PS-124.237 for binding GitHub repository
+This is just a quick bit of demo code I wrote in a few hours.
+
+If you're going to use any of this in a production environment, please consider:
+    * Processing the images using parallel processing
+    * Cache the results
+    * Load, process and destroy the images one by one, instead of loading them all into memory
+
+ 
