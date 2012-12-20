@@ -16,3 +16,4 @@ If you're going to use *any* of this in a production environment, please conside
  - Processing the images using parallel processing
  - Cache the results
  - Load, process and destroy the images one by one, instead of loading them all into memory
+ 
